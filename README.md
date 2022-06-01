@@ -1,6 +1,4 @@
-- Hi! My name is Shivani Kumar. I am currently a senior working on my Bachelors of Computer Science.
-- I’m interested in a job opportunity for once I graduate, which will be May 2022. I'm looking for an in-person position but would also love to hear about any remote positions!
-- I'm interested in the following paths: Software Engineering, Software Development, Systems Engineering, or others.
+- Hi! My name is Shivani Kumar. I recently graduated from UCF with a Bachelors of Computer Science.
 - I’m currently learning React and Golang!
 - How to reach me: shivanik1920@gmail.com
 - Feel free to check out my website: https://www.shkumar.com/
