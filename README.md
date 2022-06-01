@@ -1,4 +1,4 @@
-- Hi! My name is Shivani Kumar. I recently graduated from UCF with a Bachelors of Computer Science.
+- Hi! My name is Shivani Kumar. I recently graduated from UCF with a Bachelors in Computer Science.
 - I’m currently learning React and Golang!
 - How to reach me: shivanik1920@gmail.com
 - Feel free to check out my website: https://www.shkumar.com/
